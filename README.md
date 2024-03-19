@@ -1,4 +1,4 @@
-hi, I am @Jyriu and juste started learning dev (especially web dev) and data, I have no technical IT background, only functional.
+hi, I am @Sami and just started learning dev (especially web dev) and data, I have no technical background, only functional.
 
 my stats :
 
