@@ -6,7 +6,7 @@ Hello! I’m **Sami YEZZA**, currently pursuing a Master's in **Development, Big
 
 🎓 **Education**:
 - Bachelor's in **Mathematics and Economics**
-- Master's in **Management and Digital Transformation** with 2 years of experience as an **IT Project Manager** in alternance
+- Master's in **Management and Digital Transformation** with 2 years of experience as an **IT Project Manager** in apprenticeship
 - Currently pursuing a Master’s in **Development, Big Data & AI**, while working as an **IT Data Analyst** at **Ubisoft**
 
 💻 **Technical Skills**:
