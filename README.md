@@ -45,8 +45,9 @@ I’m also excited to explore and learn new technologies as I progress in my stu
 
 Feel free to reach out if you'd like to discuss interesting projects, collaborate, or explore professional opportunities. I love connecting with others who share a passion for technology, data, and innovation.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-yezza/)
+
 ---
 
 Thank you for visiting my profile, and I hope you find my work interesting!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-yezza/)
