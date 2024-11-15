@@ -25,10 +25,10 @@ Hello! I’m **Sami YEZZA**, currently pursuing a Master's in **Development, Big
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat-square&logo=matplotlib&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 - **Other Tools**:
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 📫 **Contact**:
 You can reach me by email at [sami.yezza@gmail.com](mailto:sami.yezza@gmail.com) for any questions, collaboration opportunities, or suggestions.
