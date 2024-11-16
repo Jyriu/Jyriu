@@ -35,7 +35,7 @@ You can reach me by email at [sami.yezza@gmail.com](mailto:sami.yezza@gmail.com)
 
 ## What I Do
 
-I am especially interested in applying **Artificial Intelligence** technologies in real-world scenarios, solving complex problems through data. Right now, I’m focusing on **data analysis**, **predictive modeling**, and **automation** with AI, while also continuing to refine my web and mobile development skills.
+I am especially interested in applying **Artificial Intelligence** and **Data related** technologies in real-world scenarios, solving complex problems through data. Right now, I’m focusing on **data analysis**, **predictive modeling**, and **software engineering**, while also continuing to refine my web and mobile development skills.
 
 I’m also excited to explore and learn new technologies as I progress in my studies.
 
