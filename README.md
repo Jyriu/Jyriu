@@ -32,6 +32,8 @@ Hello! I’m **Sami YEZZA**, currently pursuing a Master's in **Development, Big
 
 - **Other Tools**:
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 📫 **Contact**:
 You can reach me by email at [sami.yezza@gmail.com](mailto:sami.yezza@gmail.com) for any questions, collaboration opportunities, or suggestions.
