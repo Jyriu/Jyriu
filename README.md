@@ -1,13 +1,13 @@
 # Sami YEZZA (@Jyriu)
 
-Hello! I’m **Sami YEZZA**, a future **Computer Engineer** specialized in **Data & AI**, currently enrolled at **ECE Paris Engineering School**. I'm passionate about **Artificial Intelligence**, **Data Engineering**, and **Web Development**.
+Hello! I’m **Sami YEZZA**, a future **Software Engineer** specialized in **Data & AI**, currently enrolled at **ECE Paris Engineering School**. I'm passionate about **Artificial Intelligence**, **Data Engineering**, and **Software Engineering**.
 
 ## About Me
 
 🎓 **Education**:
 - Bachelor's in **Mathematics and Economics**
 - Master's in **Management and Digital Transformation**, with 2 years of experience as an **IT Project Manager** (apprenticeship)
-- Master's in **Development, Big Data & AI**, completed while working at **Ubisoft** as a **Data Analyst**
+- Master's in **Development, Big Data & AI**, completed while working at **Ubisoft** as a **Data Engineer & Analyst**
 - Currently pursuing a Master's in **Computer Engineering, Data & AI major** at **ECE Paris**, in a **2-year apprenticeship** as a **Data Engineer** at **Crédit Agricole IDF**
 
 💻 **Technical Skills**:
@@ -42,12 +42,10 @@ You can reach me at [sami.yezza@gmail.com](mailto:sami.yezza@gmail.com) for ques
 
 ## What I Do
 
-I'm passionate about building **AI-powered tools** and robust **data systems** that solve real-world problems. I’m currently focused on:
+I'm passionate about building **robust softwares** that solve real-world problems. I’m currently focused on:
 - **Data Engineering** and **ETL pipelines**
 - **Machine Learning** & **MLOps**
-- **Full-Stack Development** for data-driven apps
-
-I also enjoy contributing to open source, creating clean and maintainable code, and continuously exploring new technologies.
+- **Software Engineering**
 
 ---
 
